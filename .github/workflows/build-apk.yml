@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
 
       - name: Setup Java
         uses: actions/setup-java@v6
@@ -24,9 +24,6 @@ jobs:
 
       - name: Setup Android SDK
         uses: android-actions/setup-android@v4
-
-      - name: Clean
-        run: gradle clean --no-daemon
 
       - name: Build Debug APK
         run: gradle assembleDebug --no-daemon --stacktrace --no-configuration-cache
