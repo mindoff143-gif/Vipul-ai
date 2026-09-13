@@ -1,0 +1,6 @@
+{
+  "name": "Personal AI Assistant",
+  "description": "Voice-enabled personal AI assistant in Hindi and English with Saharanpur local news search, Facebook Page publishing, call screening, SMS/WhatsApp/Telegram, calendar, reminders, and general AI knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

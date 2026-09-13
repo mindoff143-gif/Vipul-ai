@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Personal AI Assistant</string>
+    <string name="assistant_title">Personal AI Assistant</string>
+    <string name="assistant_subtitle">आपका अपना पर्सनल एआई असिस्टेंट</string>
+    <string name="tab_assistant">Assistant</string>
+    <string name="tab_calls">Calls</string>
+    <string name="tab_messages">Messages</string>
+    <string name="tab_schedule">Schedule</string>
+    <string name="tab_contacts">Contacts</string>
+</resources>
